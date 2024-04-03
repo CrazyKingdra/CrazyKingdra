@@ -4,15 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-Welcome to my profile! I'm passionate about web development and technology, with a journey that traces back to my earliest memories. Growing up, I was surrounded by the click-clack of keyboards and the hum of computers, all thanks to my grandfather's influence. His love for electronics and technology sparked a curiosity in me that has since blossomed into a deep-seated passion for creating innovative solutions. What started as a childhood interest has evolved into a full-fledged career path. I pursued formal education in computer science, honing my skills and gaining invaluable insights into the industry. Along the way, I've had the privilege of working on diverse projects, from web development to database upkeep, each contributing to my growth as a developer. Some of my latest Web Projects Include: 
-* 💻https://ye.omladinski.ba 
-* 💻https://market.omladinski.ba
-* 💻https://sarajevskaprica.wordpress.com //innactive after new years of 2023
+Welcome to my profile! I'm passionate about web development and technology, with a journey that traces back to my earliest memories. Growing up, I was surrounded by the click-clack of keyboards and the hum of computers, all thanks to my grandfather's influence. His love for electronics and technology sparked a curiosity in me that has since blossomed into a deep-seated passion for creating innovative solutions. What started as a childhood interest has evolved into a full-fledged career path. I pursued formal education in computer science, honing my skills and gaining invaluable insights into the industry. Along the way, I've had the privilege of working on diverse projects, from web development to database upkeep, each contributing to my growth as a developer. 
 
 * 🌍  I'm based in Sarajevo
 * ✉️  You can contact me at [sacicfaris123@gmail.com](mailto:sacicfaris123@gmail.com)
 * 🧠  I'm learning Django and Ruby
 * ⚡  Video Game COMPLETIONIST
+
+Some of my latest Web Projects Include: 
+* 💻https://ye.omladinski.ba 
+* 💻https://market.omladinski.ba
+* 💻https://sarajevskaprica.wordpress.com //innactive after new years of 2023
 
 ### Skills
 
